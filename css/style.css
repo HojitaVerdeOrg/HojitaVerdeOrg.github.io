@@ -56,13 +56,13 @@ label{
 	text-align:center;
 	background:#fff;
 }
-/*.logo a {
+.logo a {
     display: block;
-}*/
+}
 .logo{
 	position: absolute;
 	top:0;
-	left:39%;
+	left:42%;
 	text-align:center;
 }
 .logo a h1 {
