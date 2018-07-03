@@ -97,7 +97,7 @@ ul.navig li:nth-of-type(4){
 }
 ul.navig li a{
 	font-size:1em;
-	color:#024db3;
+	color:#3c763d;
 	font-weight:400;
 	text-decoration: none;
 }
@@ -443,11 +443,11 @@ ul.navig{
 }
 .banner-info {
     text-align: center;
-    border: 10px solid #F5E35B;
+    /*border: 10px solid #F5E35B;*/
     width: 67%;
     margin: 19em auto 0;
     padding: 2em 1em;
-    background-color: rgba(2, 77, 179, 0.3);
+    /*background-color: rgba(2, 77, 179, 0.3);*/
 }
 .banner-info h3 {
         font-size: 5em;
@@ -517,7 +517,7 @@ h3.tittle,h2.tittle{
        text-align: center;
     font-size: 3em;
     font-weight: 400;
-    color: #024db3;
+    color: #3c763d;
  font-family: 'Maven Pro', sans-serif;
 }
 /*----about----*/
@@ -647,7 +647,7 @@ i.glyphicon.glyphicon-heart {
     margin-bottom: 1.3em;
 }
 .service-text h5 {
-    color:#F5E35B;
+    color:#4ccc1a;
     font-size: 1.3em;
     font-weight:600;
 	text-transform:uppercase;
